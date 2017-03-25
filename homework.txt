@@ -1,8 +1,8 @@
 Домашнее задание к лекции 4.4 «Взаимодействие с классически построенным RESTful API - это просто!»
 
-git clone https://github.com/webmaxru/netology-angular-pokemons -b resource angular-restful-api
+git clone https://github.com/webmaxru/netology-angular-pokemons -b resource angular-restful
 npm install
-cd angular-restful-api
+cd angular-restful
 gulp webserver
 
 Использовать $resource для вывода списка ягод (можно обращаться к внешнему Pokemon API или создать таблицу berries в backendless.com)
